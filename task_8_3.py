@@ -1,0 +1,1 @@
+#"and" heisst "und" und "or" heisst "oder"
