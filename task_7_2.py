@@ -1,0 +1,1 @@
+#bei 5<10 wir quasi festegelegt das 10 grösser als 5 ist das selbe gilt für 10>5 nur sind die stellen vertauscht

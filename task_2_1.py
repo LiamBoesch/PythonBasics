@@ -1,0 +1,8 @@
+tni = int(input("gib einen INT wert ein:"))
+taolf = float(input("gib einen FLOAT wert ein:"))
+gnirts = str(input("gib einen STRING wert ein:"))
+loob = bool(input("gib einen BOOL wert ein:"))
+print(type(tni))
+print(type(taolf))
+print(type(gnirts))
+print(type(loob))

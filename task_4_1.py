@@ -1,0 +1,6 @@
+zahl1 = input("was ist die erste zahl?")
+zahl2 = input("was ist die zweite zahl?")
+print(F"ADDITION: {float(zahl1) + float(zahl2)} ")
+print(F"SUBTRAKTION: {float(zahl1) - float(zahl2)} ")
+print(F"MULTIPLIKATION: {float(zahl1) * float(zahl2)} ")
+print(F"DIVISION: {float(zahl1) / float(zahl2)} ")
